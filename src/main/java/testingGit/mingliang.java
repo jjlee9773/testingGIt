@@ -7,6 +7,12 @@ public class mingliang {
 		System.out.println("JJ SHA bbb");
 		System.out.println("JJ SHA bbb");
 		System.out.println("JJ SHA bbb");
+		System.out.println("JJ SHA bbb");
+		System.out.println("JJ SHA bbb");
+		System.out.println("JJ SHA bbb");
+		System.out.println("JJ SHA bbb");
+		System.out.println("JJ SHA bbb");
+		System.out.println("JJ SHA bbb");
 	}
 	
 	public void hiMingLiang111(){}
