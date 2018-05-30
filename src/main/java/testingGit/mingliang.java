@@ -12,7 +12,7 @@ public class mingliang {
 		System.out.println("JJ SHA bbb");
 		System.out.println("JJ SHA bbb");
 		System.out.println("JJ SHA bbb");
-		System.out.println("JJ SHA bbbcccccd new update");
+		System.out.println("JJ SHA bbbcccccd new update1");
 	}
 	
 	public void hiMingLiang111(){}
