@@ -11,7 +11,7 @@ public class mingliang {
 		System.out.println("chee Hong SHA bbb");
 		System.out.println("chee Hong SHA bbb");
 		System.out.println("chee Hong SHA bbb");
-		System.out.println("chee Hong SHA bbb");
+		System.out.println("chee Hong SHA bbbxxxxxx");
 		System.out.println("chee Hong SHA bbbcccccd new update1222");
 	}
 	
