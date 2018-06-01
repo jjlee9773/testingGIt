@@ -17,5 +17,6 @@ public class testing {
 		System.out.println("");
 
 		System.out.println("JJ SHA bbb");
+		System.out.println("JJ SHA bbb");
 	}
 }
