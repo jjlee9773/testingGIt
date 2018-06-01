@@ -3,12 +3,13 @@ package testingGit;
 public class testingMingLiang {
 	public void hiMingLiang(){}
 	public void cheeHong(){
-		System.out.println("swsddw 11oooo");
+		System.out.println("swsw 11oooo");
 	}
 
 	public void cheeHong2(){}
 
 	public void jj(){
-		System.out.println("hdi jj cb zai");
+		System.out.println("hi jj cb zaivvv");
+		System.out.println("hi jj cb zaivvv");
 	}
 }
