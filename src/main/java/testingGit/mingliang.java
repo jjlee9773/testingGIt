@@ -6,7 +6,7 @@ public class mingliang {
 		System.out.println("chee Hong SHA bbb");
 		System.out.println("chee Hong SHA bbb");
 		System.out.println("chee Hong SHA bbb");
-		System.out.println("chee Hong SHA bbb");
+		System.out.println("chee Hong SHA bbb1");
 		System.out.println("chee Hong SHA bbb");
 		System.out.println("chee Hong SHA bbb");
 		System.out.println("chee Hong SHA bbb");
