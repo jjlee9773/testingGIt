@@ -5,6 +5,8 @@ public class mingliang {
 		System.out.println("don't play play!!!!!!");
 		System.out.println("don't play play!!!!!");
 		System.out.println("don't play play!!!!!!");
+		System.out.println("don't play play!!!!!!");
+		
 	}
 	
 	public void hiMingLiang111(){}
