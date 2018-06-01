@@ -3,7 +3,7 @@ package testingGit;
 public class testingMingLiang {
 	public void hiMingLiang(){}
 	public void cheeHong(){
-		System.out.println("swsw oooo");
+		System.out.println("swsw ooowwo");
 	}
 
 	public void cheeHong2(){}
