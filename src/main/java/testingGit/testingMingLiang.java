@@ -9,6 +9,6 @@ public class testingMingLiang {
 	public void cheeHong2(){}
 
 	public void jj(){
-		System.out.println("hi jj cb");
+		System.out.println("hi jj cb zai");
 	}
 }
