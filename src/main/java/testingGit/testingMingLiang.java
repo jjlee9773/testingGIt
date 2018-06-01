@@ -8,4 +8,7 @@ public class testingMingLiang {
 
 	public void cheeHong2(){}
 
+	public void jj(){
+		System.out.println("hi jj");
+	}
 }
