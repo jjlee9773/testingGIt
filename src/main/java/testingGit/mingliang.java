@@ -2,17 +2,10 @@ package testingGit;
 
 public class mingliang {
 	public void hiMingLiang(){
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
-		System.out.println("cccccd new update1");
+		System.out.println("don't play play!!!!!!");
+
+		System.out.println("don't play play!!!!!");
+		System.out.println("don't play play!!!!!!");
 	}
 	
 	public void hiMingLiang111(){}
