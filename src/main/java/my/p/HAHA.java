@@ -5,5 +5,7 @@ public class HAHA {
 		System.out.println("jj sha bi");
 		System.out.println("chee hong sha bi");
 		System.out.println("chee hong sha bi");
+		System.out.println("chee hong sha bi");
+		System.out.println("chee hong sha bi");
 	}
 }
