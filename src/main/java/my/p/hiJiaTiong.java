@@ -6,6 +6,7 @@ public class hiJiaTiong {
 	void sleep(){}
 	void wakeUp(){}
 	void fuck(){}
+	void lanjiao(){}
 	void play(){}
 	void makeBaby(){}
 	
