@@ -11,5 +11,6 @@ public class hiJiaTiong {
 	void play(){}
 	void makeBaby2(){}
 	void playWater(){}
+	void fuckSelf(){}
 	
 }
