@@ -7,4 +7,5 @@ public class HAHA {
 		System.out.println("chee aaaaahong sha bi");
 		System.out.println("jj sha bi");
 	}
+	void ziyaoDiam(){}
 }
