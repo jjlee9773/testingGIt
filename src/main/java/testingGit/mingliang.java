@@ -12,7 +12,7 @@ public class mingliang {
 	
 	public void hiMingLiang111(){
 		
-		System.out.println("bobo jj");
+		System.out.println("bobo jjasasa");
 	}
 	
 	public void hiMingLiang112(){
