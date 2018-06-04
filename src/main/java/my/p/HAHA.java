@@ -8,4 +8,5 @@ public class HAHA {
 		
 		System.out.println("lol");
 	}
+	void letYouHitError(){}
 }
