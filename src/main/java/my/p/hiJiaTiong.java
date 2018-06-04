@@ -5,9 +5,12 @@ public class hiJiaTiong {
 	void eat(){}
 	void sleep(){}
 	void wakeUp(){}
-	void fuck(){}
+	void watchThisAV_com(){}
+	void fuckJJ(){}
 	void lanjiao(){}
 	void play(){}
-	void makeBaby(){}
+	void makeBaby2(){}
+	void playWater(){}
+	void fuckSelf(){}
 	void jiatongMakeBaybyWithZiYao(){}
 }
