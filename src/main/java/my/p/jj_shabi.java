@@ -1,6 +1,6 @@
 package my.p;
 
-public class si_jia_tong {
+public class jj_shabi {
 	void siJiaTong(){
 		System.out.println("Hi Si Jia Tong ");
 	}
