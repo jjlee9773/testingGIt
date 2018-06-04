@@ -12,11 +12,11 @@ public class mingliang {
 	
 	public void hiMingLiang111(){
 		
-		System.out.println("bobo jjasasa");
+		System.out.println("bobo dds");
 	}
 	
 	public void hiMingLiang112(){
-		System.out.println("bobo ML");
+		System.out.println("bobo MLddsdsd");
 	}
 	
 	public void hiMingLiang113(){
