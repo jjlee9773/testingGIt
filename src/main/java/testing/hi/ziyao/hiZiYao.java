@@ -8,6 +8,7 @@ public class hiZiYao {
 		System.out.println("testing hi zi yao");
 		System.out.println("testing hi zi yaoaa");
 		System.out.println("testing hi zi yao1222333");
+	}
 	public void hiZiyao(String hihihi){
 	}
 }
