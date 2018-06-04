@@ -5,11 +5,11 @@ public class hiJiaTiong {
 	void eat(){}
 	void sleep(){}
 	void wakeUp(){}
-	void jiaTongWatchThisAV_com(){}
-	void fuckZiYao(){}
+	void watchThisAV_com(){}
 	void fuckJJ(){}
 	void play(){}
 	void makeBaby2(){}
 	void playWater(){}
+	void fuckSelf(){}
 	
 }
