@@ -13,19 +13,17 @@ public class mingliang {
 	
 	public void hiMingLiang111(){
 		
-		System.out.println("bobo cccc dsdjj");
+		System.out.println("bobo dds");
 	}
 	
 	public void hiMingLiang112(){
-		System.out.println("bobo ML");
+		System.out.println("bobo MLddsdsd");
 	}
 	
 	public void hiMingLiang113(){
 		System.out.println("bobo j");
 	}
 	
-	public void hiMingLiang114(){
-		
-	}
+	public void hiMingLiang114(){}
 }
 	
