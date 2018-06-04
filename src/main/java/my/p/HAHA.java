@@ -8,5 +8,8 @@ public class HAHA {
 		System.out.println("lol");
 		
 		System.out.println("lol");
+		System.out.println("lol");
+		
+		System.out.println("lol");
 	}
 }
