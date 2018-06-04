@@ -2,7 +2,11 @@ package my.p;
 
 public class hiJiaTiong {
 
-	void yamieFromMaster(){}
-	void yamietheasd(){}
-	void testGoze(){}
+	void eat(){}
+	void sleep(){}
+	void wakeUp(){}
+	void fuck(){}
+	void play(){}
+	void makeBaby(){}
+	
 }
