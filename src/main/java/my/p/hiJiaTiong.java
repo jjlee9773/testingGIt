@@ -1,6 +1,6 @@
 package my.p;
 
-public class GG_JiaTiong {
+public class hiJiaTiong {
 
 	void eat(){}
 	void sleep(){}
