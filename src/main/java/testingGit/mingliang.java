@@ -11,7 +11,6 @@ public class mingliang {
 	}
 	
 	public void hiMingLiang111(){}
-}
 	
 	public void hiMingLiang112(){}
 	
