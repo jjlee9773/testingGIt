@@ -15,5 +15,6 @@ public class testingMingLiang {
 		System.out.println("hi jj cb zaivvv");
 		System.out.println("hi jj cb zaivvv");
 		System.out.println("hi jj cb zaivvv");
+		System.out.println("AAAAAAAA");
 	}
 }
