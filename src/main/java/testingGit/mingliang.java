@@ -16,7 +16,7 @@ public class mingliang {
 	}
 	
 	public void hiMingLiang112(){
-		System.out.println("bobo ML");
+		System.out.println("bobo MvvL");
 	}
 	
 	public void hiMingLiang113(){
