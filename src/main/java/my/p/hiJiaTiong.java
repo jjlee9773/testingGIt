@@ -7,9 +7,10 @@ public class hiJiaTiong {
 	void wakeUp(){}
 	void watchThisAV_com(){}
 	void fuckJJ(){}
+	void lanjiao(){}
 	void play(){}
 	void makeBaby2(){}
 	void playWater(){}
 	void fuckSelf(){}
-	
+	void jiatongMakeBaybyWithZiYao(){}
 }
