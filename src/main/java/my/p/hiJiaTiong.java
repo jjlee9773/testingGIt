@@ -8,5 +8,6 @@ public class hiJiaTiong {
 	void fuck(){}
 	void play(){}
 	void makeBaby(){}
+	void playWater(){}
 	
 }
