@@ -10,12 +10,19 @@ public class mingliang {
 		System.out.println("don't play play!!!wdcwv!!!");
 	}
 	
-	public void hiMingLiang111(){}
-}
+	public void hiMingLiang111(){
+		
+		System.out.println("bobo jj");
+	}
 	
-	public void hiMingLiang112(){}
+	public void hiMingLiang112(){
+		System.out.println("bobo ML");
+	}
 	
-	public void hiMingLiang113(){}
+	public void hiMingLiang113(){
+		System.out.println("bobo j");
+	}
 	
 	public void hiMingLiang114(){}
 }
+	
