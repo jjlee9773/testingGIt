@@ -10,21 +10,5 @@ public class mingliang {
 		System.out.println("don't play play!!!wdcwv!!!");
 	}
 	
-	public void hiMingLiang111(){
-		
-		System.out.println("bobo cccc dsdjjaaaaaaaa");
-	}
-	
-	public void hiMingLiang112(){
-		System.out.println("bobo MvvL");
-	}
-	
-	public void hiMingLiang113(){
-		System.out.println("bobo j");
-	}
-	
-	public void hiMingLiang114(){
-		
-	}
 }
 	
