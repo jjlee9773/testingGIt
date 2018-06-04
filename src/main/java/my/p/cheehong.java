@@ -6,6 +6,6 @@ public class cheehong {
 		System.out.println("chee hong sha bi");
 		System.out.println("chee hong sha bi");
 		
-		System.out.println("lol");
+		System.out.println("lol sha bi");
 	}
 }
