@@ -8,8 +8,8 @@ public class testingMingLiang {
 
 	public void cheeHong2(){}
 
-	public void jj(){
-		System.out.println("hi jj cb zaivvv");
-		System.out.println("hi jj cb zaivvv");
+	public void cheeHong(String hihi){
+		System.out.println("hi cheeHong cb zaivvv");
+		System.out.println("hi cheeHong cb zaivvv");
 	}
 }
