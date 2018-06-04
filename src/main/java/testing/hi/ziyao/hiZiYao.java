@@ -9,7 +9,5 @@ public class hiZiYao {
 		System.out.println("testing hi zi yao");
 		System.out.println("testing hi zi yao");
 		System.out.println("testing hi zi yao111");
-		System.out.println("testing hi zi yao111");
-		
 	}
 }
