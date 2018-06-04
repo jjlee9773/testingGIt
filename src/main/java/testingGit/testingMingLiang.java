@@ -4,8 +4,6 @@ public class testingMingLiang {
 	public void hiMingLiang(){}
 	public void cheeHong(){
 		System.out.println("swsw 11oooo");
-		System.out.println("hi cheeHong cb zaivvv");
-		System.out.println("hi cheeHong cb zaivvv");
 	}
 
 	public void cheeHong2(){}
