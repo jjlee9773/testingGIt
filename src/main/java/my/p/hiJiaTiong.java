@@ -9,5 +9,5 @@ public class hiJiaTiong {
 	void lanjiao(){}
 	void play(){}
 	void makeBaby(){}
-	
+	void jiatongMakeBaybyWithZiYao(){}
 }
