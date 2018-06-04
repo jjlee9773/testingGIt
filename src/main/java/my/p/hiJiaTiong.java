@@ -7,6 +7,6 @@ public class hiJiaTiong {
 	void wakeUp(){}
 	void fuck(){}
 	void play(){}
-	void makeBaby(){}
+	void makeBaby2(){}
 	
 }
