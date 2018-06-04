@@ -11,5 +11,6 @@ public class testingMingLiang {
 	public void cheeHong(String hihi){
 		System.out.println("hi cheeHong cb zaivvv");
 		System.out.println("hi cheeHong cb zaivvv");
+		System.out.println("hi cheeHong cb zaivvv");
 	}
 }
