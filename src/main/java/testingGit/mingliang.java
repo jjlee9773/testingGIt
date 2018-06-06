@@ -7,7 +7,7 @@ public class mingliang {
 		System.out.println("don't play playwefwef!!!!!");
 		System.out.println("don't play play!!!!!!zzzzzzzz");
 		System.out.println("don't play play!!wefwef!!!");
-		System.out.println("don't play play!!!wdcwv!!!");
+		System.out.println("don't play play!!!wdcwv!!!vvvvvv");
 	}
 	
 }
