@@ -3,6 +3,10 @@ package my.p;
 public class cheehong {
 	private void sysout() {
 		// TODO Auto-generated method stub
-cheehong stupida
+System.out.println("jia tong ");
+System.out.println("jia tong ");
+System.out.println("jia tong ");
+System.out.println("jia tong ");
+System.out.println("jia tong ");
 	}
 }
