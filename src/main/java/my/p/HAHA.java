@@ -7,7 +7,7 @@ public class HAHA {
 		System.out.println("chee hong sha bi cch");
 		
 		System.out.println("lol");
-		System.out.println("lol");
+		System.out.println("lol");j
 	}
 	void letYouHitError(){}sss
 }
