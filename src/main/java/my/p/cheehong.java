@@ -10,4 +10,3 @@ System.out.println("jia tong ");
 System.out.println("jia tong ");
 	}
 }
-1111111111111
